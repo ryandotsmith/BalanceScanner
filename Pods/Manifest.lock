@@ -1,0 +1,13 @@
+PODS:
+  - CDZQRScanningViewController (1.0.7)
+  - Chain (0.1.1)
+
+DEPENDENCIES:
+  - CDZQRScanningViewController
+  - Chain
+
+SPEC CHECKSUMS:
+  CDZQRScanningViewController: 69cb48a4d02c483a8ee43da15b8fd23fc4e853f3
+  Chain: dce70ad8bed8915253d458cf4544ca54e2becb8c
+
+COCOAPODS: 0.32.1
